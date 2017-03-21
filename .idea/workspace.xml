@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db253f64-df8c-4e80-b92d-c443046f14a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FakePCollectionView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pipeline.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PipelineTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -33,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pipeline.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pipeline.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pipeline.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -46,8 +43,8 @@
       <file leaf-file-name="PipelineTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PipelineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="78" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -56,7 +53,7 @@
       <file leaf-file-name="FakePCollectionView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FakePCollectionView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
+            <state relative-caret-position="870">
               <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,10 +75,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/FakePCollectionView.java" />
         <option value="$PROJECT_DIR$/Pipeline.java" />
         <option value="$PROJECT_DIR$/PipelineTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -713,12 +710,12 @@
       <updated>1490052310984</updated>
       <workItem from="1490052312730" duration="124000" />
       <workItem from="1490052848155" duration="644000" />
-      <workItem from="1490066233267" duration="860000" />
+      <workItem from="1490066233267" duration="1542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1628000" />
+    <option name="totallyTimeSpent" value="2310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="698" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -778,28 +775,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PipelineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="78" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FakePCollectionView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
+        <state relative-caret-position="870">
           <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -807,11 +801,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
